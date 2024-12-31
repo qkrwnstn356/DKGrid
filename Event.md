@@ -8,5 +8,4 @@
 ```javascript
 let test = 0;
 ```
-
-![image](https://github.com/user-attachments/assets/e157608f-9174-4309-b4a3-722ed62eafd0)
+![image](https://github.com/user-attachments/assets/7694049d-c00b-41ba-b90a-aa03f444722a)
