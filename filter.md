@@ -15,3 +15,25 @@
         lwc:ref="오브젝트명">
 </c-dkbmc-grid>
 ```
+
+필터 타입에 대한 설명
+
+| option            | code     | type   |
+| ----------------- | -------- | ------ |
+| `=`               | eq       | number |
+| `>`               | lt       | number |
+| `<`               | gt       | number |
+| `>=`              | lte      | number |
+| `<=`              | gte      | number |
+| `!=`              | ne       | number |
+| `Equals`          | eq       | text   |
+| `Not equals`      | ne       | text   |
+| `Contains`        | contain  | text   |
+| `Starts with`     | start    | text   |
+| `Ends with`       | end      | text   |
+| `Equals`          | eq       | date   |
+| `Not equals`      | ne       | date   |
+| `After`           | after    | date   |
+| `After or Equal`  | afterEq  | date   |
+| `Before`          | before   | date   |
+| `Before or Equal` | beforeEq | date   |
