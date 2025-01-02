@@ -3,5 +3,5 @@
 
 - 🚩 [시작하기](https://github.com/qkrwnstn356/DKGrid/blob/main/start.md)
 ---
-- 🔍 [Filter](https://github.com/qkrwnstn356/DKGrid/blob/main/filter.md)
+- 🔍 [Filter](https://github.com/qkrwnstn356/DKGrid/blob/main/filter.md) - 작업중
 - 🛠 [Context Menu](https://github.com/qkrwnstn356/DKGrid/blob/main/ContextMenu.md)
