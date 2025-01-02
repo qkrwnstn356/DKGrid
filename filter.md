@@ -18,22 +18,22 @@
 
 필터 타입에 대한 설명
 
-| option            | code     | type   |
-| ----------------- | -------- | ------ |
-| `=`               | eq       | number |
-| `>`               | lt       | number |
-| `<`               | gt       | number |
-| `>=`              | lte      | number |
-| `<=`              | gte      | number |
-| `!=`              | ne       | number |
-| `Equals`          | eq       | text   |
-| `Not equals`      | ne       | text   |
-| `Contains`        | contain  | text   |
-| `Starts with`     | start    | text   |
-| `Ends with`       | end      | text   |
-| `Equals`          | eq       | date   |
-| `Not equals`      | ne       | date   |
-| `After`           | after    | date   |
-| `After or Equal`  | afterEq  | date   |
-| `Before`          | before   | date   |
-| `Before or Equal` | beforeEq | date   |
+| option            | type   |
+| ----------------- | ------ |
+| `=`               | number |
+| `>`               | number |
+| `<`               | number |
+| `>=`              | number |
+| `<=`              | number |
+| `!=`              | number |
+| `Contains`        | text   |
+| `Equals`          | text   |
+| `Not equals`      | text   |
+| `Starts with`     | text   |
+| `Ends with`       | text   |
+| `Equals`          | date   |
+| `Not equals`      | date   |
+| `After`           | date   |
+| `After or Equal`  | date   |
+| `Before`          | date   |
+| `Before or Equal` | date   |
